@@ -1,7 +1,7 @@
 # profile
  about me
  # 💫 About Me:
-I am reinventing my relationship to industry by learning HTML, CSS, Terminal/Git, Visual Studio, and GitHub. I am currently interested UI/UX development, but there is a lot of space ahead of me. Fortunately, I am engaged with the content, syntax, and processes. Like so many over the past few years, I have needed to make some revisions to my life plan. So, here I am. Learning.
+I am reinventing my relationship to industry by learning HTML, CSS, Terminal/Git, Visual Studio, and GitHub. I am currently interested UI/UX development, but there is a lot of space ahead of me. Luckily, I like this kind of thinking, and I am curious how far I can go.
 
  # 💻 Tech Stack:
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
