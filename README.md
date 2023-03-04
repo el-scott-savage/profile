@@ -1,5 +1,5 @@
 # profile
- about me
+
  # 💫 About Me:
 I am reinventing my relationship to industry by learning HTML, CSS, Terminal/Git, Visual Studio, and GitHub. I am currently interested UI/UX development, but there is a lot of space ahead of me. Luckily, I like this kind of thinking, and I am curious how far I can go.
 
